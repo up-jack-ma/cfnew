@@ -675,38 +675,38 @@ export default {
                         
                         const translations = {
                             zh: {
-                                title: '终端',
-                                terminal: '终端',
-                                congratulations: '恭喜你来到这',
-                                enterU: '请输入你U变量的值',
-                                enterD: '请输入你D变量的值',
+                                title: '起飞',
+                                terminal: '起飞',
+                                congratulations: '准备起飞',
+                                enterU: '你的登机牌',
+                                enterD: '请输入你的登机牌',
                                 command: '命令: connect [',
                                 uuid: 'UUID',
                                 path: 'PATH',
                                 inputU: '输入U变量的内容并且回车...',
                                 inputD: '输入D变量的内容并且回车...',
-                                connecting: '正在连接...',
-                                invading: '正在入侵...',
+                                connecting: '正在登机...',
+                                invading: '正在起飞...',
                                 success: '连接成功！返回结果...',
                                 error: '错误: 无效的UUID格式',
                                 reenter: '请重新输入有效的UUID'
                             },
                             fa: {
-                                title: 'ترمینال',
-                                terminal: 'ترمینال',
-                                congratulations: 'تبریک می‌گوییم به شما',
-                                enterU: 'لطفا مقدار متغیر U خود را وارد کنید',
-                                enterD: 'لطفا مقدار متغیر D خود را وارد کنید',
-                                command: 'دستور: connect [',
+                                 title: '起飞',
+                                terminal: '起飞',
+                                congratulations: '准备起飞',
+                                enterU: '你的登机牌',
+                                enterD: '请输入你的登机牌',
+                                command: '命令: connect [',
                                 uuid: 'UUID',
                                 path: 'PATH',
-                                inputU: 'محتویات متغیر U را وارد کرده و Enter را بزنید...',
-                                inputD: 'محتویات متغیر D را وارد کرده و Enter را بزنید...',
-                                connecting: 'در حال اتصال...',
-                                invading: 'در حال نفوذ...',
-                                success: 'اتصال موفق! در حال بازگشت نتیجه...',
-                                error: 'خطا: فرمت UUID نامعتبر',
-                                reenter: 'لطفا UUID معتبر را دوباره وارد کنید'
+                                inputU: '输入U变量的内容并且回车...',
+                                inputD: '输入D变量的内容并且回车...',
+                                connecting: '正在登机...',
+                                invading: '正在起飞...',
+                                success: '连接成功！返回结果...',
+                                error: '错误: 无效的UUID格式',
+                                reenter: '请重新输入有效的UUID'
                             }
                         };
                         
