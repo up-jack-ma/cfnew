@@ -680,16 +680,16 @@ export default {
                                 congratulations: '准备起飞',
                                 enterU: '你的登机牌',
                                 enterD: '请输入你的登机牌',
-                                command: '命令: connect [',
+                                command: '登记口: 登机号 [',
                                 uuid: 'UUID',
                                 path: 'PATH',
                                 inputU: '输入U变量的内容并且回车...',
                                 inputD: '输入D变量的内容并且回车...',
                                 connecting: '正在登机...',
                                 invading: '正在起飞...',
-                                success: '连接成功！返回结果...',
-                                error: '错误: 无效的UUID格式',
-                                reenter: '请重新输入有效的UUID'
+                                success: '登机成功！准备起飞...',
+                                error: '错误: 无效的登机牌',
+                                reenter: '错过登机时间'
                             },
                             fa: {
                                  title: '起飞',
@@ -697,16 +697,16 @@ export default {
                                 congratulations: '准备起飞',
                                 enterU: '你的登机牌',
                                 enterD: '请输入你的登机牌',
-                                command: '命令: connect [',
+                                command: '登记口: 登机号 [',
                                 uuid: 'UUID',
                                 path: 'PATH',
                                 inputU: '输入U变量的内容并且回车...',
                                 inputD: '输入D变量的内容并且回车...',
                                 connecting: '正在登机...',
                                 invading: '正在起飞...',
-                                success: '连接成功！返回结果...',
-                                error: '错误: 无效的UUID格式',
-                                reenter: '请重新输入有效的UUID'
+                                success: '登机成功！准备起飞...',
+                                error: '错误: 无效的登机牌',
+                                reenter: '错过登机时间'
                             }
                         };
                         
@@ -974,11 +974,11 @@ export default {
                     
                     const translations = {
                         zh: {
-                            connecting: '正在连接...',
-                            invading: '正在入侵...',
-                            success: '连接成功！返回结果...',
-                            error: '错误: 无效的UUID格式',
-                            reenter: '请重新输入有效的UUID'
+                            connecting: '正在登机...',
+                            invading: '正在起飞...',
+                            success: '登机成功！准备起飞...',
+                            error: '错误: 无效的登机牌',
+                            reenter: '错过登机时间'
                         },
                         fa: {
                             connecting: 'در حال اتصال...',
